@@ -1,2 +1,2 @@
-# Hello-World
+Very new to phone technology. I learned a bit from a friend over the past 6 monyhs and Im looking to expand and learn as much as I can. I used to build computers as a side hobby years ago, I hope some of that basic knowledge will somehow apply in this learning venture. I know for some these things are easily understood, considering I have to learn the basics yet I have a long way to go but Im in no hurry, Im 43 starting to learn a trenemdous amoun of imformation, process and implementation. # Hello-World
 Complete initial code assignment
